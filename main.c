@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(void) {
-	printf("I did a merge oopsie\n");
+	printf("A NewNewBranch happend!\n");
 	return 69;
 }
